@@ -1,8 +1,6 @@
 # Black-Friday-Use-Case
 
-# BLACK FRIDAY PREDICTION
-
-# PROJECT
+# BLACK FRIDAY PREDICTION PROJECT
 
 
 ## Problem Statement
@@ -29,11 +27,14 @@ different products.
 • Product_Category_2 Product may belongs to other category also (Masked)
 • Product_Category_3 Product may belongs to other category also (Masked)
 • Purchase Purchase Amount (Target Variable)
-Steps to Follow
+
+### Steps to Follow
 https://www.kaggle.com/code/spscientist/a-simple-tutorial-on-exploratory-data-analysis
 https://en.wikipedia.org/wiki/Exploratory_data_analysis#:~:text=In%20statistics%2C%20
 exploratory%20data%20analysis,and%20other%20data%20visualization%20methods. 
-Note : Data Scientists have to apply their analytical skills to give findings and 
+
+### Note : 
+Data Scientists have to apply their analytical skills to give findings and 
 conclusions in detailed data analysis written in jupyter notebook . Only data analysis is 
 required. 
 Need not to create machine learning models /but still if anybody comes with it that is 
